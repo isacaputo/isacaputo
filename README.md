@@ -1,6 +1,6 @@
 # 👋 Hey there! 
-I'm Isadora Caputo, a SaaS community manager turned software developer. My passion for connecting people through technology inspired my career transition into software development. After completing a full stack bootcamp at [CodeOp - Tech School for Women+](https://codeop.tech/), I joined their team as a teaching assistant, helping students program with advanced frameworks. 
+I'm Isadora Caputo, a marketer turned software developer. 
 
-My mission extends beyond code. I create efficient and user-friendly tech solutions while advocating for diversity and inclusion. Join me on this exciting coding adventure! 🚀 🌐 ✨
+In 7 years as a digital marketer and 2 as a SaaS community manager, I've empowered users across different digital channels, turning their feedback into impactful strategies. My passion for connecting people through technology inspired my career transition into software development. After completing a full stack bootcamp at [CodeOp - Tech School for Women+](https://codeop.tech/), I joined their team as a teaching assistant, helping students code with advanced frameworks. As a full stack developer, I create efficient tech solutions, prioritize user needs, and advocate for diversity and inclusion. ✨
 
 **Tech Skills:** JavaScript, HTML, CSS, React, Context API, Express, Node, Vite, MySql, Sequelize, DB-modeling, TDD, and Git.
