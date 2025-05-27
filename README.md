@@ -1,4 +1,4 @@
-# Hi! I'm Isadora Caputo ☺️
+# Hi! ☺️
 
 With a background in Business Administration and Marketing, I bring a strategic perspective and strong communication skills to every project. My experience managing SaaS platform communities deepened my understanding of user behavior and digital engagement, which naturally led me to transition into software development. In this new role, I've translated my focus on the user into meaningful web experiences, and these experiences back into high-quality data.
 
