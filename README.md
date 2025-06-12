@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Isa!
+# 👋 Hi, I'm Isa!
 
 With a background in Business Administration and Marketing, I bring a strategic mindset and strong communication skills to the world of software development. My journey began by managing SaaS platform communities, where I developed a deep understanding of user behavior and digital engagement. This experience sparked a passion for creating web experiences, and ultimately led me to become a developer.
 
