@@ -4,7 +4,7 @@ I have a background in Business Administration and Marketing, but I found my pas
 
 I enjoy building user-friendly, visually appealing solutions that turn data into real insights. Currently, I’m part of a tech team developing tools that help marketing teams attract and convert leads more effectively.
 
-
+------------------------------------------------
 ### 💻 Programming Languages
 JavaScript, TypeScript, HTML5, CSS3
 
