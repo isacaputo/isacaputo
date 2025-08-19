@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Isa!
 
-With a background in Business Administration and Marketing, I bring a strategic mindset and strong communication skills to the world of software development. My journey began by managing SaaS platform communities, where I developed a deep understanding of user behavior and digital engagement. This experience sparked a passion for creating web experiences, and ultimately led me to become a developer.
+I have a background in Business Administration and Marketing, but I found my passion in tech. I started by managing SaaS communities and eventually fell in love with creating intuitive digital experiences. Now I’m a full-stack developer.
 
-Today, I'm a full stack developer with a love for frontend work and a sharp eye for detail. I build thoughtful solutions that not only look good and function seamlessly, but generate meaningful data for better decision-making. Currently, I’m part of a tech squad creating tools that help marketing teams attract and convert leads with greater impact.
+I enjoy building user-friendly, visually appealing solutions that turn data into real insights. Currently, I’m part of a tech team developing tools that help marketing teams attract and convert leads more effectively.
 
 💻 Programming Languages
 JavaScript, TypeScript, HTML5, CSS3
