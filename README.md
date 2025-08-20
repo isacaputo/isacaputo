@@ -7,7 +7,7 @@ As a JavaScript Full Stack developer, I bring ideas to life!
 - And I document my work so teams can easily understand, maintain, and build on it. 
 
 What drives me: continuous improvement. 
-I love exploring new possibilities and leaving the product, the process, the code, and the users better than I found them!
+I love exploring new possibilities and leaving the product, the process, the code, the team and the users better than I found them!
 
 ---
 Some tech I work with:
