@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Isa!
 
 As a JavaScript Full Stack developer, I bring ideas to life. 
+
 I turn Figma designs into interactive web experiences with React. 
 I also build backend services and APIs that keep sites fast, secure, and reliable.
 And I document my work so teams can easily understand, maintain, and build on it. 
