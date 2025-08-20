@@ -1,10 +1,11 @@
-# 👋 Hi, I'm Isa!
+# 👋 Hi, I'm Isa, an enthusiastic JavaScript full-stack developer turning ideas into web experiences.
 
-I have a background in Business Administration and Marketing, but I found my passion in tech. I started by managing SaaS communities and eventually fell in love with creating intuitive digital experiences. Now I’m a full-stack developer.
+I turn Figma designs into interactive web experiences with React, build backend services and APIs that keep sites fast, secure, and reliable, and document my work so teams can easily understand and extend it. 
+What drives me: continuous improvement. I love discovering new possibilities and leaving the product, the process, the code, and the users better than I found them!
 
-I enjoy building user-friendly, visually appealing solutions that turn data into real insights. Currently, I’m part of a tech team developing tools that help marketing teams attract and convert leads more effectively.
+---
+Some tech I work with:
 
-------------------------------------------------
 ### 💻 Programming Languages
 JavaScript, TypeScript, HTML5, CSS3
 
