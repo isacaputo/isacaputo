@@ -6,10 +6,6 @@ As a JavaScript Full Stack developer, I bring ideas to life!
 - I also build backend services and APIs that keep web pages fast, secure, and reliable.
 - And I document my work so teams can easily understand, maintain, and build on it. 
 
-What drives me: continuous improvement. 
-
-I love exploring new possibilities and leaving the product, the process, the code, the team better than I found them!
-
 ---
 Some tech I work with:
 
