@@ -9,14 +9,23 @@ As a JavaScript/TypeScript Full Stack developer, I bring ideas to life!
 ---
 Some tech I work with:
 
-### 💻 Programming Languages                  ### 🧰 Libraries & Frameworks
-JavaScript, TypeScript, SQL, HTML5, CSS3      React, Next.js, Express.js, Jest, Vitest
+### 💻 Programming Languages
+JavaScript, TypeScript, SQL, HTML5, CSS3 
 
-### Runtime Environments                      ### 🎨 Styling & UI
-Node.js, Cloudflare Workers                   SASS/SCSS, BEM, Tailwind CSS, Material UI, Shadcn UI
+### 🧰 Libraries & Frameworks
+React, Next.js, Express.js, Jest, Vitest
 
-### 🗄️ Databases & ORMs                       ### ☁️ Cloud & Infrastructure
-MySQL, SQLite, Sequelize, Drizzle             Cloudflare, Docker
+### 🛠️ Runtime Environments
+Node.js, Cloudflare Workers
 
-### 🔌 APIs & CMS                             ### 🛠️ Tools & Platforms
-REST APIs, Payload CMS, WordPress             GitHub, Postman, Jest, Figma, DB Designer
+### 🎨 Styling & UI
+SASS/SCSS, BEM, Tailwind CSS, Material UI, Shadcn UI
+
+### 🗄️ Databases & ORMs
+MySQL, SQLite, Sequelize, Drizzle             
+
+### ☁️ Cloud & Infrastructure
+Cloudflare, Docker
+
+### 🔌 APIs & CMS
+REST APIs, Payload CMS, WordPress             
